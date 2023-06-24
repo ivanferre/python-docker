@@ -2,6 +2,8 @@
 
 This is a very simple project to demonstrate building a Docker image from a Python application.
 
+[How to Keep Docker Secrets Secure: Complete Guide](https://spacelift.io/blog/docker-secrets)
+
 Following [Build your Python image](https://docs.docker.com/language/python/build-images/). Actually, [Docker Python](https://docs.docker.com/language/python/).
 
 ## Using Docker Swarm Secrets
@@ -108,5 +110,6 @@ Managing secrets independently of your containers also prepares you for other ec
 
 ## TODO
 
+1. Use the material here to remove hardcoded credentials and sensitive information from the files.
 1. [Manage sensitive data with Docker secrets](https://docs.docker.com/engine/swarm/secrets/)
 1. [Deploying Docker containers on ECS](https://docs.docker.com/cloud/ecs-integration/)
