@@ -110,6 +110,16 @@ Managing secrets independently of your containers also prepares you for other ec
 
 ## TODO
 
+1. <https://dockercheatsheet.com/>
 1. Use the material here to remove hardcoded credentials and sensitive information from the files.
 1. [Manage sensitive data with Docker secrets](https://docs.docker.com/engine/swarm/secrets/)
 1. [Deploying Docker containers on ECS](https://docs.docker.com/cloud/ecs-integration/)
+1. <https://docs.docker.com/language/python/deploy/>
+1. <https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-1--29n7>
+1. <https://docs.conda.io/en/latest/miniconda.html>
+1. <https://www.youtube.com/watch?v=HG6yIjZapSA>
+1. Verify use of <https://github.com/ivanferre/python-docker/actions/runs/5326946154>
+1. <https://daphnia.com/powercoders-nag-intro.html#_stuff_to_try>
+1. <https://realpython.com/python-sockets/#echo-client-and-server>
+1. <https://realpython.com/python-virtual-environments-a-primer/>
+1. <https://learn.microsoft.com/en-gb/powershell/scripting/whats-new/migrating-from-windows-powershell-51-to-powershell-7?view=powershell-7.3>
